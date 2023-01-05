@@ -86,7 +86,7 @@ Passing a matrix which one of its elements is a tuple:
     >>> matrix_divided([[1, -1], (2, -2), [3, -3]], 1)
     Traceback (most recent call last):
     	      ...
-OBOBOB    TypeError: matrix must be a matrix (list of lists) of integers/floats
+    TypeError: matrix must be a matrix (list of lists) of integers/floats
 
 Passing div as a list
 
